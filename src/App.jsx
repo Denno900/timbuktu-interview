@@ -9,6 +9,7 @@ import Explore from './Explore/Explore'
 import Life from './Life/Life'
 import Contact from './Contact/Contact'
 import Events from './Events/Events'
+
 function App() {
   return (
     <div>
